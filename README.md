@@ -1,7 +1,7 @@
 # absolutely_detailed_mnist_classifier_implementation
 An absolutely detailed classifier neural network built for th torchvision MNIST dataset. Contains comprehensive documentation.
 
-<img src="./asset.png" alt="Code flow" width="620"/>
+<img src="./assets.png" alt="Code flow" width="620"/>
 
 ## MNIST Linear Neural Network
 A minimal PyTorch implementation of a 3-layer fully connected neural network to classify handwritten digits from the MNIST dataset.
